@@ -25,7 +25,7 @@ This project develops an **Early Warning System (EWS)** that predicts future fin
 
 ## 📂 Dataset
 
-The dataset was constructed using financial statement information collected from **Screener.in** for companies listed in the **Nifty 500 Index**.
+The dataset was constructed using financial statement information collected from **Screener.in** for companies listed in the **Nifty 500 Index** using Web Scraping.
 
 **Data Sources**
 
@@ -61,6 +61,9 @@ Data Collection
         │
         ▼
 Data Cleaning & Preprocessing
+        │
+        ▼
+EDA
         │
         ▼
 Feature Engineering
